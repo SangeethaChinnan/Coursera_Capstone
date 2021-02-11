@@ -1,0 +1,1471 @@
+city,county_name,lat,lng
+Los Angeles,Los Angeles,34.1139,-118.4068
+San Francisco,San Francisco,37.7562,-122.4430
+San Diego,San Diego,32.8312,-117.1225
+Riverside,Riverside,33.9381,-117.3948
+Sacramento,Sacramento,38.5667,-121.4683
+San Jose,Santa Clara,37.3019,-121.8486
+Fresno,Fresno,36.7831,-119.7941
+Concord,Contra Costa,37.9722,-122.0016
+Mission Viejo,Orange,33.6095,-117.6550
+Bakersfield,Kern,35.3529,-119.0359
+Murrieta,Riverside,33.5720,-117.1909
+Long Beach,Los Angeles,33.7981,-118.1675
+Oakland,Alameda,37.7903,-122.2165
+Indio,Riverside,33.7346,-116.2346
+Stockton,San Joaquin,37.9765,-121.3109
+Oxnard,Ventura,34.1963,-119.1815
+Modesto,Stanislaus,37.6374,-121.0028
+Anaheim,Orange,33.8390,-117.8572
+Victorville,San Bernardino,34.5277,-117.3536
+Lancaster,Los Angeles,34.6935,-118.1753
+Santa Ana,Orange,33.7366,-117.8819
+Santa Rosa,Sonoma,38.4458,-122.7067
+Santa Clarita,Los Angeles,34.4175,-118.4964
+Antioch,Contra Costa,37.9789,-121.7958
+Irvine,Orange,33.6772,-117.7738
+Chula Vista,San Diego,32.6281,-117.0145
+Fremont,Alameda,37.5265,-121.9852
+Visalia,Tulare,36.3276,-119.3269
+San Bernardino,San Bernardino,34.1417,-117.2946
+Thousand Oaks,Ventura,34.1914,-118.8755
+Fontana,San Bernardino,34.0968,-117.4599
+Moreno Valley,Riverside,33.9244,-117.2045
+Santa Barbara,Santa Barbara,34.4285,-119.7202
+Glendale,Los Angeles,34.1818,-118.2468
+Huntington Beach,Orange,33.6960,-118.0025
+Salinas,Monterey,36.6884,-121.6317
+Ontario,San Bernardino,34.0393,-117.6064
+Rancho Cucamonga,San Bernardino,34.1248,-117.5666
+Hemet,Riverside,33.7341,-116.9969
+Santa Cruz,Santa Cruz,36.9789,-122.0346
+Oceanside,San Diego,33.2247,-117.3083
+Elk Grove,Sacramento,38.4160,-121.3842
+Vallejo,Solano,38.1133,-122.2358
+Garden Grove,Orange,33.7787,-117.9601
+Corona,Riverside,33.8616,-117.5649
+Hayward,Alameda,37.6328,-122.0772
+Palmdale,Los Angeles,34.5944,-118.1057
+Sunnyvale,Santa Clara,37.3836,-122.0256
+Pomona,Los Angeles,34.0585,-117.7626
+Escondido,San Diego,33.1347,-117.0722
+Fairfield,Solano,38.2592,-122.0324
+Merced,Merced,37.3057,-120.4778
+Torrance,Los Angeles,33.8346,-118.3417
+Roseville,Placer,38.7703,-121.3196
+Pasadena,Los Angeles,34.1597,-118.1390
+Santa Maria,Santa Barbara,34.9334,-120.4432
+Orange,Orange,33.8038,-117.8218
+Fullerton,Orange,33.8841,-117.9279
+Santa Clara,Santa Clara,37.3645,-121.9680
+Simi Valley,Ventura,34.2663,-118.7490
+Berkeley,Alameda,37.8723,-122.2760
+Redding,Shasta,40.5698,-122.3650
+East Los Angeles,Los Angeles,34.0326,-118.1691
+Yuba City,Sutter,39.1357,-121.6381
+Gilroy,Santa Clara,37.0047,-121.5855
+Chico,Butte,39.7575,-121.8152
+Seaside,Monterey,36.6224,-121.8191
+El Monte,Los Angeles,34.0739,-118.0291
+Carlsbad,San Diego,33.1247,-117.2837
+Temecula,Riverside,33.4928,-117.1315
+Clovis,Fresno,36.8278,-119.6831
+Costa Mesa,Orange,33.6667,-117.9135
+El Centro,Imperial,32.7867,-115.5586
+Downey,Los Angeles,33.9379,-118.1312
+Richmond,Contra Costa,37.9477,-122.3390
+Jurupa Valley,Riverside,34.0010,-117.4705
+San Buenaventura,Ventura,34.2741,-119.2314
+Inglewood,Los Angeles,33.9566,-118.3444
+Turlock,Stanislaus,37.5053,-120.8588
+Daly City,San Mateo,37.6862,-122.4685
+West Covina,Los Angeles,34.0555,-117.9112
+San Mateo,San Mateo,37.5521,-122.3122
+Norwalk,Los Angeles,33.9069,-118.0829
+Rialto,San Bernardino,34.1174,-117.3894
+Manteca,San Joaquin,37.7927,-121.2264
+Arden-Arcade,Sacramento,38.6034,-121.3810
+El Cajon,San Diego,32.8017,-116.9605
+Burbank,Los Angeles,34.1879,-118.3235
+Vista,San Diego,33.1896,-117.2386
+Vacaville,Solano,38.3590,-121.9680
+Tracy,San Joaquin,37.7269,-121.4522
+San Marcos,San Diego,33.1350,-117.1744
+Hesperia,San Bernardino,34.3975,-117.3147
+Compton,Los Angeles,33.8930,-118.2275
+Menifee,Riverside,33.6909,-117.1849
+Chino,San Bernardino,33.9836,-117.6654
+Hanford,Kings,36.3274,-119.6549
+South Gate,Los Angeles,33.9448,-118.1926
+Carson,Los Angeles,33.8374,-118.2559
+Livermore,Alameda,37.6862,-121.7608
+Westminster,Orange,33.7523,-117.9938
+Santa Monica,Los Angeles,34.0232,-118.4813
+San Leandro,Alameda,37.7071,-122.1601
+Citrus Heights,Sacramento,38.6948,-121.2880
+Hawthorne,Los Angeles,33.9146,-118.3476
+Redwood City,San Mateo,37.5026,-122.2252
+Lake Forest,Orange,33.6606,-117.6712
+Napa,Napa,38.2976,-122.3011
+Whittier,Los Angeles,33.9678,-118.0188
+Newport Beach,Orange,33.6151,-117.8669
+Milpitas,Santa Clara,37.4339,-121.8921
+Madera,Madera,36.9631,-120.0782
+Chino Hills,San Bernardino,33.9508,-117.7253
+Alhambra,Los Angeles,34.0840,-118.1355
+Mountain View,Santa Clara,37.4000,-122.0796
+Buena Park,Orange,33.8572,-118.0046
+Pleasanton,Alameda,37.6663,-121.8805
+Folsom,Sacramento,38.6668,-121.1422
+Tustin,Orange,33.7309,-117.8106
+Lakewood,Los Angeles,33.8471,-118.1221
+Perris,Riverside,33.7899,-117.2233
+Alameda,Alameda,37.7670,-122.2672
+Watsonville,Santa Cruz,36.9206,-121.7706
+Porterville,Tulare,36.0644,-119.0338
+Upland,San Bernardino,34.1178,-117.6603
+Davis,Yolo,38.5552,-121.7365
+Camarillo,Ventura,34.2230,-119.0322
+Bellflower,Los Angeles,33.8880,-118.1271
+San Ramon,Contra Costa,37.7625,-121.9365
+Baldwin Park,Los Angeles,34.0829,-117.9721
+Rancho Cordova,Sacramento,38.5740,-121.2523
+Lodi,San Joaquin,38.1218,-121.2932
+Union City,Alameda,37.6030,-122.0187
+Apple Valley,San Bernardino,34.5328,-117.2104
+Pittsburg,Contra Costa,38.0182,-121.8964
+Redlands,San Bernardino,34.0511,-117.1712
+El Paso de Robles,San Luis Obispo,35.6394,-120.6560
+Walnut Creek,Contra Costa,37.9024,-122.0398
+Lynwood,Los Angeles,33.9240,-118.2017
+Lake Elsinore,Riverside,33.6847,-117.3344
+Rocklin,Placer,38.8075,-121.2488
+South San Francisco,San Mateo,37.6536,-122.4197
+Yorba Linda,Orange,33.8890,-117.7714
+Petaluma,Sonoma,38.2423,-122.6267
+Redondo Beach,Los Angeles,33.8574,-118.3766
+Laguna Niguel,Orange,33.5275,-117.7050
+Florence-Graham,Los Angeles,33.9682,-118.2447
+Tulare,Tulare,36.1996,-119.3400
+Palo Alto,Santa Clara,37.3913,-122.1468
+Dublin,Alameda,37.7161,-121.8963
+San Clemente,Orange,33.4498,-117.6103
+Brentwood,Contra Costa,37.9355,-121.7191
+Carmichael,Sacramento,38.6337,-121.3230
+Eastvale,Riverside,33.9617,-117.5802
+Castro Valley,Alameda,37.7091,-122.0631
+Encinitas,San Diego,33.0490,-117.2613
+San Luis Obispo,San Luis Obispo,35.2669,-120.6691
+Pico Rivera,Los Angeles,33.9902,-118.0888
+Montebello,Los Angeles,34.0155,-118.1108
+National City,San Diego,32.6654,-117.0983
+Woodland,Yolo,38.6712,-121.7500
+La Habra,Orange,33.9278,-117.9513
+South Whittier,Los Angeles,33.9336,-118.0311
+Monterey Park,Los Angeles,34.0497,-118.1326
+Gardena,Los Angeles,33.8944,-118.3073
+Cupertino,Santa Clara,37.3168,-122.0465
+La Mesa,San Diego,32.7703,-117.0204
+San Rafael,Marin,37.9905,-122.5222
+Santee,San Diego,32.8554,-116.9851
+Arcadia,Los Angeles,34.1342,-118.0373
+Huntington Park,Los Angeles,33.9800,-118.2167
+Diamond Bar,Los Angeles,33.9991,-117.8161
+Novato,Marin,38.0920,-122.5576
+Highland,San Bernardino,34.1113,-117.1654
+Fountain Valley,Orange,33.7105,-117.9514
+Hacienda Heights,Los Angeles,33.9970,-117.9728
+Cathedral City,Riverside,33.8363,-116.4642
+Delano,Kern,35.7670,-119.2637
+Colton,San Bernardino,34.0538,-117.3254
+Arroyo Grande,San Luis Obispo,35.1241,-120.5845
+Rosemead,Los Angeles,34.0689,-118.0823
+Paramount,Los Angeles,33.8976,-118.1652
+Yucaipa,San Bernardino,34.0336,-117.0429
+West Sacramento,Yolo,38.5557,-121.5504
+Palm Desert,Riverside,33.7378,-116.3695
+Lompoc,Santa Barbara,34.6618,-120.4714
+Glendora,Los Angeles,34.1449,-117.8468
+Placentia,Orange,33.8807,-117.8553
+Beaumont,Riverside,33.9076,-116.9766
+Aliso Viejo,Orange,33.5792,-117.7289
+Rowland Heights,Los Angeles,33.9716,-117.8911
+Azusa,Los Angeles,34.1386,-117.9124
+Cerritos,Los Angeles,33.8677,-118.0686
+Oroville,Butte,39.4999,-121.5634
+Poway,San Diego,32.9871,-117.0201
+San Jacinto,Riverside,33.7970,-116.9916
+Newark,Alameda,37.5204,-122.0312
+Reedley,Fresno,36.5987,-119.4473
+Cypress,Orange,33.8171,-118.0386
+Hollister,San Benito,36.8563,-121.3981
+Ceres,Stanislaus,37.5953,-120.9625
+Palm Springs,Riverside,33.8017,-116.5382
+Antelope,Sacramento,38.7153,-121.3610
+Lincoln,Placer,38.8759,-121.2916
+La Mirada,Los Angeles,33.9025,-118.0093
+Rancho Santa Margarita,Orange,33.6318,-117.5989
+North Highlands,Sacramento,38.6713,-121.3721
+Florin,Sacramento,38.4832,-121.4042
+Covina,Los Angeles,34.0903,-117.8817
+El Dorado Hills,El Dorado,38.6750,-121.0490
+Morgan Hill,Santa Clara,37.1326,-121.6417
+Coachella,Riverside,33.6905,-116.1430
+Altadena,Los Angeles,34.1928,-118.1345
+Selma,Fresno,36.5715,-119.6143
+Danville,Contra Costa,37.8121,-121.9698
+Eureka,Humboldt,40.7942,-124.1568
+Desert Hot Springs,Riverside,33.9551,-116.5430
+Rohnert Park,Sonoma,38.3480,-122.6964
+Brea,Orange,33.9254,-117.8656
+San Bruno,San Mateo,37.6254,-122.4313
+Oakley,Contra Costa,37.9929,-121.6951
+Bell Gardens,Los Angeles,33.9663,-118.1550
+Campbell,Santa Clara,37.2802,-121.9538
+La Quinta,Riverside,33.6536,-116.2785
+Rancho Palos Verdes,Los Angeles,33.7554,-118.3637
+Los Banos,Merced,37.0630,-120.8406
+Montclair,San Bernardino,34.0714,-117.6980
+San Gabriel,Los Angeles,34.0948,-118.0990
+Calexico,Imperial,32.6849,-115.4944
+La Puente,Los Angeles,34.0323,-117.9533
+Culver City,Los Angeles,34.0058,-118.3968
+Pacifica,San Mateo,37.6112,-122.4781
+Martinez,Contra Costa,37.9985,-122.1160
+La Presa,San Diego,32.7110,-117.0027
+Stanton,Orange,33.8002,-117.9935
+Wildomar,Riverside,33.6173,-117.2582
+West Hollywood,Los Angeles,34.0882,-118.3718
+Moorpark,Ventura,34.2855,-118.8770
+Monrovia,Los Angeles,34.1650,-117.9921
+Claremont,Los Angeles,34.1259,-117.7153
+French Valley,Riverside,33.5998,-117.1069
+San Juan Capistrano,Orange,33.5009,-117.6544
+Foothill Farms,Sacramento,38.6867,-121.3475
+Temple City,Los Angeles,34.1021,-118.0579
+Bell,Los Angeles,33.9801,-118.1798
+Auburn,Placer,38.8950,-121.0778
+Westmont,Los Angeles,33.9417,-118.3018
+Manhattan Beach,Los Angeles,33.8895,-118.3972
+Pleasant Hill,Contra Costa,37.9540,-122.0759
+Orangevale,Sacramento,38.6881,-121.2209
+Oildale,Kern,35.4249,-119.0279
+Menlo Park,San Mateo,37.4686,-122.1672
+Arcata,Humboldt,40.8615,-124.0757
+Grass Valley,Nevada,39.2237,-121.0521
+Adelanto,San Bernardino,34.5815,-117.4397
+Foster City,San Mateo,37.5553,-122.2659
+Sonoma,Sonoma,38.2902,-122.4598
+Beverly Hills,Los Angeles,34.0786,-118.4021
+San Dimas,Los Angeles,34.1082,-117.8090
+Dana Point,Orange,33.4733,-117.6968
+Ridgecrest,Kern,35.6308,-117.6621
+Lawndale,Los Angeles,33.8884,-118.3531
+La Verne,Los Angeles,34.1208,-117.7702
+Placerville,El Dorado,38.7308,-120.7978
+Fallbrook,San Diego,33.3693,-117.2259
+Spring Valley,San Diego,32.7316,-116.9766
+Banning,Riverside,33.9460,-116.8992
+Laguna Hills,Orange,33.5920,-117.6992
+Orcutt,Santa Barbara,34.8668,-120.4269
+Fair Oaks,Sacramento,38.6504,-121.2497
+San Pablo,Contra Costa,37.9628,-122.3425
+Goleta,Santa Barbara,34.4360,-119.8596
+Burlingame,San Mateo,37.5860,-122.3669
+Barstow,San Bernardino,34.8661,-117.0472
+Santa Paula,Ventura,34.3521,-119.0698
+Los Gatos,Santa Clara,37.2303,-121.9560
+South Lake Tahoe,El Dorado,38.9393,-119.9828
+San Carlos,San Mateo,37.4982,-122.2680
+Saratoga,Santa Clara,37.2684,-122.0263
+Los Altos,Santa Clara,37.3685,-122.0966
+Atascadero,San Luis Obispo,35.4827,-120.6858
+Walnut,Los Angeles,34.0334,-117.8593
+Suisun City,Solano,38.2473,-122.0090
+Ukiah,Mendocino,39.1463,-123.2105
+Atwater,Merced,37.3543,-120.5981
+East Palo Alto,San Mateo,37.4671,-122.1352
+Wasco,Kern,35.5938,-119.3671
+Vineyard,Sacramento,38.4744,-121.3190
+Benicia,Solano,38.0725,-122.1525
+Monterey,Monterey,36.5922,-121.8807
+Sonora,Tuolumne,37.9819,-120.3828
+Galt,Sacramento,38.2693,-121.3000
+Sanger,Fresno,36.6990,-119.5575
+Isla Vista,Santa Barbara,34.4144,-119.8581
+Temescal Valley,Riverside,33.7581,-117.4677
+Imperial Beach,San Diego,32.5689,-117.1184
+Ladera Ranch,Orange,33.5491,-117.6416
+Windsor,Sonoma,38.5417,-122.8086
+Maywood,Los Angeles,33.9885,-118.1877
+Belmont,San Mateo,37.5154,-122.2955
+Lemon Grove,San Diego,32.7331,-117.0344
+Lemoore,Kings,36.2949,-119.7983
+West Whittier-Los Nietos,Los Angeles,33.9759,-118.0689
+Lafayette,Contra Costa,37.8919,-122.1189
+Norco,Riverside,33.9252,-117.5499
+Brawley,Imperial,32.9783,-115.5287
+Hercules,Contra Costa,38.0064,-122.2564
+Soledad,Monterey,36.4432,-121.3426
+Twentynine Palms,San Bernardino,34.1478,-116.0659
+Bay Point,Contra Costa,38.0329,-121.9614
+San Lorenzo,Alameda,37.6737,-122.1349
+El Cerrito,Contra Costa,37.9197,-122.3025
+South Pasadena,Los Angeles,34.1103,-118.1573
+Yucca Valley,San Bernardino,34.1234,-116.4216
+Riverbank,Stanislaus,37.7268,-120.9402
+North Tustin,Orange,33.7644,-117.7945
+Lathrop,San Joaquin,37.8090,-121.3131
+Loma Linda,San Bernardino,34.0451,-117.2498
+Dinuba,Tulare,36.5453,-119.3987
+Ashland,Alameda,37.6942,-122.1159
+San Fernando,Los Angeles,34.2886,-118.4363
+Seal Beach,Orange,33.7542,-118.0714
+Calabasas,Los Angeles,34.1375,-118.6689
+Coronado,San Diego,32.6640,-117.1600
+Valinda,Los Angeles,34.0401,-117.9300
+Half Moon Bay,San Mateo,37.4688,-122.4383
+Rosemont,Sacramento,38.5477,-121.3553
+Oakdale,Stanislaus,37.7616,-120.8470
+Cudahy,Los Angeles,33.9631,-118.1830
+Winter Gardens,San Diego,32.8376,-116.9268
+West Puente Valley,Los Angeles,34.0512,-117.9681
+Granite Bay,Placer,38.7601,-121.1714
+Patterson,Stanislaus,37.4758,-121.1535
+West Rancho Dominguez,Los Angeles,33.9057,-118.2682
+Laguna Beach,Orange,33.5448,-117.7612
+Willowbrook,Los Angeles,33.9199,-118.2362
+Marina,Monterey,36.6812,-121.7895
+Corcoran,Kings,36.0839,-119.5610
+Millbrae,San Mateo,37.5994,-122.4023
+Arvin,Kern,35.1944,-118.8306
+West Carson,Los Angeles,33.8229,-118.2931
+Port Hueneme,Ventura,34.1617,-119.2036
+Lakeside,San Diego,32.8560,-116.9040
+Bloomington,San Bernardino,34.0601,-117.4013
+Lennox,Los Angeles,33.9380,-118.3586
+Rancho San Diego,San Diego,32.7624,-116.9197
+Shafter,Kern,35.4794,-119.2013
+Ramona,San Diego,33.0474,-116.8767
+Duarte,Los Angeles,34.1610,-117.9504
+Rosamond,Kern,34.8658,-118.2154
+Dixon,Solano,38.4468,-121.8249
+South El Monte,Los Angeles,34.0493,-118.0484
+American Canyon,Napa,38.1796,-122.2583
+Prunedale,Monterey,36.8064,-121.6555
+Lomita,Los Angeles,33.7933,-118.3175
+Linda,Yuba,39.1241,-121.5421
+Agoura Hills,Los Angeles,34.1510,-118.7608
+East Hemet,Riverside,33.7301,-116.9410
+Mead Valley,Riverside,33.8333,-117.2852
+La Cañada Flintridge,Los Angeles,34.2097,-118.2002
+South San Jose Hills,Los Angeles,34.0123,-117.9041
+Orinda,Contra Costa,37.8808,-122.1791
+Casa de Oro-Mount Helix,San Diego,32.7640,-116.9687
+Albany,Alameda,37.8898,-122.3018
+La Crescenta-Montrose,Los Angeles,34.2322,-118.2353
+Blythe,Riverside,33.6220,-114.6188
+Castaic,Los Angeles,34.4818,-118.6317
+Hermosa Beach,Los Angeles,33.8654,-118.3966
+Pinole,Contra Costa,37.9931,-122.2834
+Stevenson Ranch,Los Angeles,34.3894,-118.5885
+Cameron Park,El Dorado,38.6737,-120.9872
+Red Bluff,Tehama,40.1735,-122.2413
+Rancho Mirage,Riverside,33.7634,-116.4271
+Chowchilla,Madera,37.1095,-120.2349
+Imperial,Imperial,32.8390,-115.5719
+Mountain House,San Joaquin,37.7740,-121.5452
+Woodcrest,Riverside,33.8789,-117.3686
+Moraga,Contra Costa,37.8439,-122.1225
+Valle Vista,Riverside,33.7436,-116.8872
+Greenfield,Monterey,36.3232,-121.2451
+Santa Fe Springs,Los Angeles,33.9330,-118.0625
+Nipomo,San Luis Obispo,35.0323,-120.4991
+Lakeport,Lake,39.0392,-122.9218
+McKinleyville,Humboldt,40.9488,-124.0857
+Coalinga,Fresno,36.1430,-120.3262
+Crescent City,Del Norte,41.7727,-124.1902
+Live Oak,Santa Cruz,36.9860,-121.9804
+Rosedale,Kern,35.3887,-119.2058
+Truckee,Nevada,39.3455,-120.1848
+Lindsay,Tulare,36.2082,-119.0897
+El Segundo,Los Angeles,33.9169,-118.4021
+Bostonia,San Diego,32.8189,-116.9479
+Artesia,Los Angeles,33.8676,-118.0806
+Solvang,Santa Barbara,34.5936,-120.1401
+Los Osos,San Luis Obispo,35.3068,-120.8249
+Ripon,San Joaquin,37.7417,-121.1310
+Rio Linda,Sacramento,38.6876,-121.4418
+Stanford,Santa Clara,37.4252,-122.1674
+East San Gabriel,Los Angeles,34.1198,-118.0807
+Vincent,Los Angeles,34.0982,-117.9238
+Discovery Bay,Contra Costa,37.9071,-121.6076
+Cherryland,Alameda,37.6792,-122.1038
+Phelan,San Bernardino,34.4398,-117.5248
+Clearlake,Lake,38.9590,-122.6330
+Fillmore,Ventura,34.3989,-118.9181
+Walnut Park,Los Angeles,33.9683,-118.2220
+King City,Monterey,36.2166,-121.1330
+Laguna Woods,Orange,33.6098,-117.7299
+Parkway,Sacramento,38.4993,-121.4520
+East Rancho Dominguez,Los Angeles,33.8950,-118.1956
+McFarland,Kern,35.6781,-119.2414
+Parlier,Fresno,36.6087,-119.5434
+La Palma,Orange,33.8504,-118.0406
+Avocado Heights,Los Angeles,34.0381,-118.0026
+Pacific Grove,Monterey,36.6192,-121.9255
+Kerman,Fresno,36.7249,-120.0625
+Coto de Caza,Orange,33.5961,-117.5862
+Susanville,Lassen,40.4205,-120.6129
+Tehachapi,Kern,35.1274,-118.4749
+Alamo,Contra Costa,37.8546,-122.0130
+Taft,Kern,35.1267,-119.4242
+Livingston,Merced,37.3875,-120.7248
+Alpine,San Diego,32.8439,-116.7585
+Lamont,Kern,35.2651,-118.9159
+Lemon Hill,Sacramento,38.5172,-121.4573
+North Fair Oaks,San Mateo,37.4754,-122.2035
+North Auburn,Placer,38.9306,-121.0821
+Mill Valley,Marin,37.9085,-122.5421
+Salida,Stanislaus,37.7145,-121.0870
+California City,Kern,35.1578,-117.8721
+Hawaiian Gardens,Los Angeles,33.8303,-118.0728
+El Sobrante,Riverside,33.8724,-117.4625
+Oak Park,Ventura,34.1849,-118.7669
+Sun Village,Los Angeles,34.5596,-117.9559
+Avenal,Kings,36.0311,-120.1162
+Olivehurst,Yuba,39.0817,-121.5549
+Big Bear City,San Bernardino,34.2536,-116.7903
+Grover Beach,San Luis Obispo,35.1204,-120.6199
+Fortuna,Humboldt,40.5862,-124.1419
+Carpinteria,Santa Barbara,34.3962,-119.5118
+Solana Beach,San Diego,32.9942,-117.2575
+Palos Verdes Estates,Los Angeles,33.7871,-118.3976
+San Marino,Los Angeles,34.1224,-118.1132
+Lakeland Village,Riverside,33.6480,-117.3706
+Bonita,San Diego,32.6652,-117.0295
+Commerce,Los Angeles,33.9963,-118.1519
+Grand Terrace,San Bernardino,34.0312,-117.3132
+Muscoy,San Bernardino,34.1550,-117.3477
+San Anselmo,Marin,37.9821,-122.5699
+Marysville,Yuba,39.1518,-121.5835
+Delhi,Merced,37.4306,-120.7759
+Clayton,Contra Costa,37.9403,-121.9301
+Larkspur,Marin,37.9393,-122.5313
+Home Gardens,Riverside,33.8784,-117.5116
+Kingsburg,Fresno,36.5245,-119.5602
+Emeryville,Alameda,37.8382,-122.2932
+Camp Pendleton South,San Diego,33.2284,-117.3791
+Healdsburg,Sonoma,38.6229,-122.8651
+Malibu,Los Angeles,34.0368,-118.7845
+Newman,Stanislaus,37.3157,-121.0211
+Scotts Valley,Santa Cruz,37.0555,-122.0118
+View Park-Windsor Hills,Los Angeles,33.9955,-118.3484
+Lake Los Angeles,Los Angeles,34.6097,-117.8339
+Diamond Springs,El Dorado,38.6920,-120.8391
+Mendota,Fresno,36.7555,-120.3776
+Tamalpais-Homestead Valley,Marin,37.8793,-122.5382
+Alum Rock,Santa Clara,37.3695,-121.8241
+Magalia,Butte,39.8228,-121.6078
+Signal Hill,Los Angeles,33.8029,-118.1681
+Los Alamitos,Orange,33.7972,-118.0594
+Hillsborough,San Mateo,37.5573,-122.3587
+Winton,Merced,37.3854,-120.6173
+Canyon Lake,Riverside,33.6885,-117.2621
+Piedmont,Alameda,37.8226,-122.2300
+Rossmoor,Orange,33.7886,-118.0803
+Valley Center,San Diego,33.2330,-117.0157
+Orange Cove,Fresno,36.6211,-119.3188
+Soquel,Santa Cruz,36.9978,-121.9482
+La Riviera,Sacramento,38.5683,-121.3544
+Sierra Madre,Los Angeles,34.1687,-118.0504
+Farmersville,Tulare,36.3053,-119.2083
+Anderson,Shasta,40.4497,-122.2950
+Morro Bay,San Luis Obispo,35.3681,-120.8481
+Fairview,Alameda,37.6760,-122.0480
+San Diego Country Estates,San Diego,33.0093,-116.7874
+Exeter,Tulare,36.2940,-119.1459
+Oak Hills,San Bernardino,34.3912,-117.4125
+Shasta Lake,Shasta,40.6790,-122.3775
+Rodeo,Contra Costa,38.0368,-122.2526
+Fort Bragg,Mendocino,39.4399,-123.8013
+East Whittier,Los Angeles,33.9244,-117.9887
+Citrus,Los Angeles,34.1161,-117.8890
+Charter Oak,Los Angeles,34.1025,-117.8564
+Capitola,Santa Cruz,36.9772,-121.9538
+Quartz Hill,Los Angeles,34.6527,-118.2163
+Del Aire,Los Angeles,33.9168,-118.3693
+Country Club,San Joaquin,37.9687,-121.3408
+Garden Acres,San Joaquin,37.9637,-121.2296
+Orland,Glenn,39.7461,-122.1856
+Fort Irwin,San Bernardino,35.2476,-116.6834
+Madera Acres,Madera,37.0123,-120.0799
+Marina del Rey,Los Angeles,33.9765,-118.4486
+Mentone,San Bernardino,34.0609,-117.1108
+Corte Madera,Marin,37.9238,-122.5129
+Rio Vista,Solano,38.1763,-121.7025
+West Athens,Los Angeles,33.9235,-118.3033
+Rio del Mar,Santa Cruz,36.9607,-121.8807
+Waterford,Stanislaus,37.6429,-120.7553
+Blackhawk,Contra Costa,37.8160,-121.9071
+Bishop,Inyo,37.3665,-118.3958
+Golden Hills,Kern,35.1512,-118.5024
+Gridley,Butte,39.3622,-121.6971
+Cloverdale,Sonoma,38.7961,-123.0151
+Good Hope,Riverside,33.7706,-117.2772
+Calimesa,Riverside,33.9874,-117.0542
+Tiburon,Marin,37.8854,-122.4637
+Lake Arrowhead,San Bernardino,34.2531,-117.1945
+Needles,San Bernardino,34.8164,-114.6189
+Crestline,San Bernardino,34.2486,-117.2890
+Earlimart,Tulare,35.8824,-119.2715
+Corning,Tehama,39.9282,-122.1820
+Ione,Amador,38.3613,-120.9422
+Los Altos Hills,Santa Clara,37.3671,-122.1390
+August,San Joaquin,37.9797,-121.2625
+Spring Valley Lake,San Bernardino,34.4987,-117.2683
+Midway City,Orange,33.7451,-117.9849
+Larkfield-Wikiup,Sonoma,38.5130,-122.7536
+Gonzales,Monterey,36.5060,-121.4429
+Orosi,Tulare,36.5434,-119.2903
+Firebaugh,Fresno,36.8534,-120.4536
+Alondra Park,Los Angeles,33.8885,-118.3350
+Montecito,Santa Barbara,34.4382,-119.6286
+Mammoth Lakes,Mono,37.6273,-118.9900
+Westlake Village,Los Angeles,34.1369,-118.8220
+Pismo Beach,San Luis Obispo,35.1484,-120.6492
+South San Gabriel,Los Angeles,34.0489,-118.0961
+Cherry Valley,Riverside,33.9797,-116.9694
+Vandenberg Village,Santa Barbara,34.7111,-120.4623
+Rolling Hills Estates,Los Angeles,33.7783,-118.3509
+Willits,Mendocino,39.4047,-123.3494
+Topanga,Los Angeles,34.0964,-118.6053
+Woodlake,Tulare,36.4124,-119.0999
+Templeton,San Luis Obispo,35.5560,-120.7182
+Winters,Yolo,38.5320,-121.9781
+Interlaken,Santa Cruz,36.9505,-121.7363
+Guadalupe,Santa Barbara,34.9608,-120.5735
+Oroville East,Butte,39.4947,-121.4866
+Boyes Hot Springs,Sonoma,38.3126,-122.4888
+Sebastopol,Sonoma,38.4001,-122.8276
+Holtville,Imperial,32.8130,-115.3780
+Piñon Hills,San Bernardino,34.4438,-117.6214
+Escalon,San Joaquin,37.7912,-120.9982
+Joshua Tree,San Bernardino,34.1236,-116.3128
+Plumas Lake,Yuba,38.9924,-121.5580
+Hughson,Stanislaus,37.6020,-120.8660
+Jackson,Amador,38.3485,-120.7728
+Gold River,Sacramento,38.6268,-121.2488
+Fairfax,Marin,37.9886,-122.5952
+Yreka,Siskiyou,41.7292,-122.6312
+Dos Palos,Merced,36.9854,-120.6336
+Oceano,San Luis Obispo,35.1019,-120.6090
+Mount Shasta,Siskiyou,41.3206,-122.3150
+Ojai,Ventura,34.4487,-119.2469
+Cotati,Sonoma,38.3279,-122.7092
+Camp Pendleton North,San Diego,33.3148,-117.3162
+University of California-Davis,Yolo,38.5374,-121.7576
+Huron,Fresno,36.2041,-120.0961
+Alta Sierra,Nevada,39.1237,-121.0523
+Willows,Glenn,39.5149,-122.1995
+Acton,Los Angeles,34.4956,-118.1857
+Nuevo,Riverside,33.8011,-117.1415
+Pollock Pines,El Dorado,38.7564,-120.5904
+Atherton,San Mateo,37.4539,-122.2032
+Calipatria,Imperial,33.1493,-115.5056
+Homeland,Riverside,33.7459,-117.1132
+Sausalito,Marin,37.8580,-122.4932
+St. Helena,Napa,38.5063,-122.4682
+Rancho Calaveras,Calaveras,38.1248,-120.8570
+Kentfield,Marin,37.9481,-122.5496
+Franklin,Merced,37.3277,-120.5321
+Thermalito,Butte,39.4909,-121.6150
+Colusa,Colusa,39.2059,-122.0125
+Ben Lomond,Santa Cruz,37.0782,-122.0882
+Loomis,Placer,38.8093,-121.1955
+Lemoore Station,Kings,36.2633,-119.9049
+San Martin,Santa Clara,37.0829,-121.5963
+Thousand Palms,Riverside,33.8150,-116.3545
+Lake Mathews,Riverside,33.8250,-117.3683
+Fowler,Fresno,36.6243,-119.6737
+Desert Palms,Riverside,33.7790,-116.2930
+Bermuda Dunes,Riverside,33.7434,-116.2874
+Lucas Valley-Marinwood,Marin,38.0405,-122.5765
+Mecca,Riverside,33.5767,-116.0645
+Mira Monte,Ventura,34.4284,-119.2853
+Ladera Heights,Los Angeles,33.9972,-118.3740
+South Monrovia Island,Los Angeles,34.1234,-117.9958
+Contra Costa Centre,Contra Costa,37.9261,-122.0540
+Keyes,Stanislaus,37.5618,-120.9088
+Castroville,Monterey,36.7650,-121.7535
+La Habra Heights,Los Angeles,33.9602,-117.9510
+Aptos,Santa Cruz,36.9912,-121.8934
+El Rio,Ventura,34.2452,-119.1568
+East Porterville,Tulare,36.0573,-118.9713
+Salton City,Imperial,33.2994,-115.9609
+East Foothills,Santa Clara,37.3827,-121.8138
+Saranap,Contra Costa,37.8878,-122.0760
+East Pasadena,Los Angeles,34.1377,-118.0776
+Eucalyptus Hills,San Diego,32.8850,-116.9453
+Fruitridge Pocket,Sacramento,38.5326,-121.4558
+El Granada,San Mateo,37.5134,-122.4660
+Pleasure Point,Santa Cruz,36.9618,-121.9715
+Durham,Butte,39.6232,-121.7875
+Lucerne Valley,San Bernardino,34.4427,-116.9021
+Paradise,Butte,39.7558,-121.6063
+Greenacres,Kern,35.3831,-119.1184
+Gustine,Merced,37.2545,-120.9949
+Mayflower Village,Los Angeles,34.1160,-118.0096
+Las Flores,Orange,33.5838,-117.6235
+Old Fig Garden,Fresno,36.7989,-119.8051
+Silver Lakes,San Bernardino,34.7519,-117.3431
+Villa Park,Orange,33.8180,-117.8104
+Highgrove,Riverside,34.0106,-117.3098
+West Modesto,Stanislaus,37.6180,-121.0343
+Hilmar-Irwin,Merced,37.4045,-120.8504
+Rancho Murieta,Sacramento,38.5085,-121.0716
+Wilton,Sacramento,38.4130,-121.2127
+Cambria,San Luis Obispo,35.5523,-121.0847
+Elverta,Sacramento,38.7185,-121.4455
+Hidden Valley Lake,Lake,38.8003,-122.5505
+Strawberry,Marin,37.8925,-122.5078
+Yosemite Lakes,Madera,37.1885,-119.7723
+Indian Wells,Riverside,33.7036,-116.3396
+Williams,Colusa,39.1498,-122.1389
+Woodside,San Mateo,37.4222,-122.2591
+Jamul,San Diego,32.7184,-116.8709
+Palermo,Butte,39.4313,-121.5225
+Kensington,Contra Costa,37.9084,-122.2805
+Bear Valley Springs,Kern,35.1775,-118.6460
+Garnet,Riverside,33.9179,-116.4796
+Big Bear Lake,San Bernardino,34.2429,-116.8951
+Calistoga,Napa,38.5818,-122.5824
+Lake Wildwood,Nevada,39.2350,-121.2003
+Myrtletown,Humboldt,40.7888,-124.1286
+Cutler,Tulare,36.5263,-119.2884
+Twin Lakes,Santa Cruz,36.9646,-121.9896
+Boulder Creek,Santa Cruz,37.1341,-122.1271
+Broadmoor,San Mateo,37.6914,-122.4811
+Bret Harte,Stanislaus,37.6021,-121.0045
+Tara Hills,Contra Costa,37.9939,-122.3188
+Buellton,Santa Barbara,34.6152,-120.1943
+Denair,Stanislaus,37.5262,-120.7994
+Guerneville,Sonoma,38.5137,-122.9894
+Mayfair,Fresno,36.7693,-119.7612
+Lincoln Village,San Joaquin,38.0054,-121.3339
+Ford City,Kern,35.1647,-119.4584
+Camino Tassajara,Contra Costa,37.7909,-121.8850
+Emerald Lake Hills,San Mateo,37.4662,-122.2675
+Lake San Marcos,San Diego,33.1196,-117.2088
+Brisbane,San Mateo,37.6898,-122.4020
+Oak View,Ventura,34.3990,-119.2976
+Portola Valley,San Mateo,37.3713,-122.2203
+Santa Ynez,Santa Barbara,34.6151,-120.0944
+Phoenix Lake,Tuolumne,38.0075,-120.3089
+Santa Venetia,Marin,38.0055,-122.5032
+Sunnyside,Fresno,36.7294,-119.6945
+Bonsall,San Diego,33.2761,-117.1942
+Mountain View Acres,San Bernardino,34.4976,-117.3472
+Planada,Merced,37.2892,-120.3207
+Armona,Kings,36.3179,-119.7054
+McSwain,Merced,37.3146,-120.5867
+Fetters Hot Springs-Agua Caliente,Sonoma,38.3274,-122.4871
+Pacheco,Contra Costa,37.9878,-122.0700
+Copperopolis,Calaveras,37.9365,-120.6277
+Del Mar,San Diego,32.9633,-117.2627
+Humboldt Hill,Humboldt,40.7219,-124.1987
+Mather,Sacramento,38.5489,-121.2832
+Ivanhoe,Tulare,36.3886,-119.2202
+West Menlo Park,San Mateo,37.4338,-122.2034
+Harbison Canyon,San Diego,32.8273,-116.8381
+Carmel Valley Village,Monterey,36.4824,-121.7198
+Lenwood,San Bernardino,34.8861,-117.1078
+Del Monte Forest,Monterey,36.5857,-121.9439
+North Richmond,Contra Costa,37.9642,-122.3711
+Running Springs,San Bernardino,34.2104,-117.1147
+Rio Dell,Humboldt,40.5022,-124.1103
+Empire,Stanislaus,37.6432,-120.9045
+San Joaquin,Fresno,36.6057,-120.1897
+Wrightwood,San Bernardino,34.3495,-117.6299
+Burney,Shasta,40.8846,-121.6691
+Angels,Calaveras,38.0707,-120.5501
+North El Monte,Los Angeles,34.1030,-118.0238
+Clearlake Riviera,Lake,38.9512,-122.7207
+Vine Hill,Contra Costa,38.0071,-122.0873
+Wheatland,Yuba,39.0287,-121.3900
+Mojave,Kern,35.0139,-118.1895
+Shingle Springs,El Dorado,38.6665,-120.9370
+Mission Hills,Santa Barbara,34.6861,-120.4404
+French Camp,San Joaquin,37.8802,-121.2803
+Carmel-by-the-Sea,Monterey,36.5528,-121.9222
+Arbuckle,Colusa,39.0141,-122.0610
+Brooktrails,Mendocino,39.4429,-123.3963
+Freedom,Santa Cruz,36.9402,-121.7953
+Forestville,Sonoma,38.4825,-122.8899
+Bystrom,Stanislaus,37.6199,-120.9827
+Agua Dulce,Los Angeles,34.5044,-118.3160
+Avalon,Los Angeles,33.3342,-118.3315
+Meadow Vista,Placer,39.0030,-121.0304
+Auburn Lake Trails,El Dorado,38.8917,-120.9849
+Squaw Valley,Fresno,36.6944,-119.2000
+Felton,Santa Cruz,37.0392,-122.0804
+Pajaro,Monterey,36.9016,-121.7417
+Tarpey Village,Fresno,36.7941,-119.7012
+Heber,Imperial,32.7318,-115.5204
+Moss Beach,San Mateo,37.5184,-122.5036
+Lake of the Pines,Nevada,39.0378,-121.0642
+Woodbridge,San Joaquin,38.1692,-121.3113
+Stallion Springs,Kern,35.0935,-118.6477
+Meiners Oaks,Ventura,34.4505,-119.2731
+Kelseyville,Lake,38.9704,-122.8327
+Lockeford,San Joaquin,38.1509,-121.1554
+Reliez Valley,Contra Costa,37.9399,-122.1027
+Valley Springs,Calaveras,38.1837,-120.8150
+Granite Hills,San Diego,32.8033,-116.9056
+Lake Isabella,Kern,35.6378,-118.4819
+Hidden Meadows,San Diego,33.2236,-117.1198
+Rollingwood,Contra Costa,37.9655,-122.3305
+Oakhurst,Madera,37.3342,-119.6483
+Mono Vista,Tuolumne,38.0124,-120.2697
+Riverdale,Fresno,36.4304,-119.8671
+San Miguel,Contra Costa,37.8867,-122.0368
+Monte Sereno,Santa Clara,37.2404,-121.9882
+Meadowbrook,Riverside,33.7253,-117.2851
+Campo,San Diego,32.6394,-116.4745
+Vandenberg AFB,Santa Barbara,34.7483,-120.5182
+Coronita,Riverside,33.8760,-117.6109
+Pine Hills,Humboldt,40.7313,-124.1551
+Casa Conejo,Ventura,34.1847,-118.9445
+Loyola,Santa Clara,37.3502,-122.0980
+Kennedy,San Joaquin,37.9290,-121.2457
+North Lakeport,Lake,39.0883,-122.9054
+Pixley,Tulare,35.9769,-119.2889
+Lake California,Tehama,40.3608,-122.2102
+Winchester,Riverside,33.7146,-117.0775
+Desert Edge,Riverside,33.9223,-116.4401
+Goshen,Tulare,36.3518,-119.4210
+El Verano,Sonoma,38.2975,-122.4915
+Seacliff,Santa Cruz,36.9770,-121.9176
+Esparto,Yolo,38.6934,-122.0241
+Crockett,Contra Costa,38.0519,-122.2201
+Cambrian Park,Santa Clara,37.2563,-121.9287
+Cottonwood,Shasta,40.3904,-122.2861
+Tipton,Tulare,36.0585,-119.3130
+Colfax,Placer,39.0938,-120.9533
+Hoopa,Humboldt,41.0802,-123.6972
+San Antonio Heights,San Bernardino,34.1571,-117.6592
+Terra Bella,Tulare,35.9567,-119.0328
+Angwin,Napa,38.5776,-122.4513
+Loma Rica,Yuba,39.3204,-121.4038
+Morada,San Joaquin,38.0386,-121.2456
+Amesti,Santa Cruz,36.9583,-121.7805
+East Richmond Heights,Contra Costa,37.9450,-122.3140
+Weaverville,Trinity,40.7488,-122.9274
+Nevada City,Nevada,39.2607,-121.0231
+Marin City,Marin,37.8711,-122.5137
+San Andreas,Calaveras,38.1911,-120.6763
+Jamestown,Tuolumne,37.9574,-120.4110
+Bonny Doon,Santa Cruz,37.0435,-122.1369
+Morongo Valley,San Bernardino,34.0724,-116.5627
+Anza,Riverside,33.5679,-116.6967
+Kings Beach,Placer,39.2490,-120.0201
+Day Valley,Santa Cruz,37.0255,-121.8559
+Strathmore,Tulare,36.1438,-119.0611
+Santa Rosa Valley,Ventura,34.2453,-118.9023
+Sutter,Sutter,39.1556,-121.7492
+Lake Nacimiento,San Luis Obispo,35.7309,-120.8702
+Yountville,Napa,38.3963,-122.3671
+Hartley,Solano,38.4203,-121.9521
+Las Lomas,Monterey,36.8689,-121.7317
+Cutten,Humboldt,40.7657,-124.1446
+South Oroville,Butte,39.4767,-121.5439
+Channel Islands Beach,Ventura,34.1586,-119.2231
+Lucerne,Lake,39.0697,-122.7760
+Ridgemark,San Benito,36.8082,-121.3623
+Homestead Valley,San Bernardino,34.2730,-116.4145
+Oasis,Riverside,33.5275,-116.1261
+Montalvin Manor,Contra Costa,37.9977,-122.3300
+Kelly Ridge,Butte,39.5289,-121.4662
+East Oakdale,Stanislaus,37.7854,-120.8007
+Bayview,Humboldt,40.7654,-124.1787
+Penngrove,Sonoma,38.3005,-122.6707
+Pine Mountain Lake,Tuolumne,37.8599,-120.1843
+Rose Hills,Los Angeles,34.0090,-118.0419
+Crest,San Diego,32.8000,-116.8671
+North Shore,Riverside,33.5157,-115.9092
+Vista Santa Rosa,Riverside,33.6227,-116.2126
+Val Verde,Los Angeles,34.4504,-118.6717
+West Bishop,Inyo,37.3571,-118.4542
+Weed,Siskiyou,41.4128,-122.3816
+Hayfork,Trinity,40.5610,-123.1299
+Collierville,San Joaquin,38.2141,-121.2675
+Lexington Hills,Santa Clara,37.1616,-121.9879
+La Selva Beach,Santa Cruz,36.9276,-121.8445
+Desert View Highlands,Los Angeles,34.5901,-118.1535
+Dixon Lane-Meadow Creek,Inyo,37.3864,-118.4152
+Dogtown,San Joaquin,38.2096,-121.1551
+Lakeview,Riverside,33.8285,-117.1233
+Alturas,Modoc,41.4898,-120.5516
+Cayucos,San Luis Obispo,35.4375,-120.8847
+Sutter Creek,Amador,38.3827,-120.8107
+Cabazon,Riverside,33.9127,-116.7828
+Frazier Park,Kern,34.8123,-118.9542
+Georgetown,El Dorado,38.9112,-120.8356
+Caruthers,Fresno,36.5399,-119.8450
+Edwards AFB,Kern,34.9045,-117.9295
+Nice,Lake,39.1266,-122.8526
+Ahwahnee,Madera,37.3652,-119.7194
+Idyllwild-Pine Cove,Riverside,33.7443,-116.7257
+Rancho Santa Fe,San Diego,33.0240,-117.1992
+Mission Canyon,Santa Barbara,34.4534,-119.7125
+Montara,San Mateo,37.5482,-122.4924
+Aromas,San Benito,36.8771,-121.6404
+Ross,Marin,37.9638,-122.5615
+Parksdale,Madera,36.9465,-120.0212
+Bella Vista,Shasta,40.6502,-122.2450
+Three Rivers,Tulare,36.4319,-118.8806
+Buckhorn,Amador,38.4532,-120.5354
+Pine Canyon,Monterey,36.1757,-121.1498
+Rainbow,San Diego,33.4098,-117.1395
+Wofford Heights,Kern,35.7127,-118.4732
+Weldon,Kern,35.6431,-118.3103
+Richgrove,Tulare,35.7966,-119.1069
+Portola,Plumas,39.8241,-120.4733
+Twain Harte,Tuolumne,38.0384,-120.2340
+Romoland,Riverside,33.7648,-117.1572
+Arnold,Calaveras,38.2423,-120.3547
+Weedpatch,Kern,35.2369,-118.9123
+East Sonora,Tuolumne,37.9777,-120.3410
+Sleepy Hollow,Marin,38.0120,-122.5877
+Clearlake Oaks,Lake,39.0218,-122.6593
+Poplar-Cotton Center,Tulare,36.0564,-119.1493
+Westmorland,Imperial,33.0389,-115.6223
+Aptos Hills-Larkin Valley,Santa Cruz,36.9606,-121.8341
+Shingletown,Shasta,40.5035,-121.8600
+Sky Valley,Riverside,33.8912,-116.3551
+Columbia,Tuolumne,38.0333,-120.4097
+Boron,Kern,35.0164,-117.6659
+Soulsbyville,Tuolumne,37.9917,-120.2617
+East Quincy,Plumas,39.9165,-120.9189
+Murphys,Calaveras,38.1447,-120.4348
+Parkwood,Madera,36.9293,-120.0482
+Bethel Island,Contra Costa,38.0288,-121.6404
+Corralitos,Santa Cruz,36.9941,-121.7892
+Chester,Plumas,40.3017,-121.2339
+Borrego Springs,San Diego,33.2410,-116.3571
+China Lake Acres,Kern,35.6387,-117.7667
+Santa Nella,Merced,37.1014,-121.0153
+Hamilton City,Glenn,39.7422,-122.0125
+Bell Canyon,Ventura,34.2081,-118.6876
+Belvedere,Marin,37.8735,-122.4662
+San Juan Bautista,San Benito,36.8455,-121.5380
+Calwa,Fresno,36.7136,-119.7607
+Patterson Tract,Tulare,36.3795,-119.2956
+Fairbanks Ranch,San Diego,32.9919,-117.1859
+Rouse,Stanislaus,37.6196,-121.0084
+Bodfish,Kern,35.5765,-118.4764
+Woodlands,San Luis Obispo,35.0289,-120.5524
+Easton,Fresno,36.6524,-119.7908
+Seeley,Imperial,32.7899,-115.6842
+Auberry,Fresno,37.0755,-119.4901
+Laton,Fresno,36.4338,-119.6916
+Taft Heights,Kern,35.1337,-119.4711
+Bertsch-Oceanview,Del Norte,41.7524,-124.1594
+San Pasqual,Los Angeles,34.1393,-118.1027
+Quincy,Plumas,39.9310,-120.9548
+Brookdale,Santa Cruz,37.1058,-122.1106
+Camino,El Dorado,38.7412,-120.6815
+Hidden Hills,Los Angeles,34.1637,-118.6612
+Graton,Sonoma,38.4376,-122.8660
+Biggs,Butte,39.4102,-121.7133
+Warm Springs,Riverside,33.7067,-117.3344
+Foresthill,Placer,39.0053,-120.8314
+Rolling Hills,Los Angeles,33.7600,-118.3471
+Lone Pine,Inyo,36.5774,-118.0777
+Piru,Ventura,34.4075,-118.7999
+Red Corral,Amador,38.4116,-120.6056
+Lagunitas-Forest Knolls,Marin,38.0180,-122.6914
+South Taft,Kern,35.1293,-119.4575
+Woodville,Tulare,36.0898,-119.2050
+Boronda,Monterey,36.6947,-121.6745
+Pine Grove,Amador,38.4074,-120.6606
+South Dos Palos,Merced,36.9707,-120.6467
+Pine Mountain Club,Kern,34.8446,-119.1669
+Los Molinos,Tehama,40.0270,-122.0981
+Elizabeth Lake,Los Angeles,34.6590,-118.3783
+Le Grand,Merced,37.2288,-120.2540
+Toro Canyon,Santa Barbara,34.4235,-119.5568
+Lost Hills,Kern,35.6254,-119.6789
+Redwood Valley,Mendocino,39.2690,-123.2023
+Biola,Fresno,36.8006,-120.0199
+London,Tulare,36.4810,-119.4440
+Searles Valley,San Bernardino,35.7701,-117.3967
+Rancho Tehama Reserve,Tehama,40.0010,-122.4418
+Lake Sherwood,Ventura,34.1339,-118.8804
+Del Rey Oaks,Monterey,36.5929,-121.8381
+Westwood,Lassen,40.3049,-121.0045
+Los Ranchos,San Luis Obispo,35.2102,-120.6291
+Los Alamos,Santa Barbara,34.7375,-120.2783
+Black Point-Green Point,Marin,38.1120,-122.5191
+Temelec,Sonoma,38.2577,-122.4982
+Ladera,San Mateo,37.3996,-122.1990
+Del Rio,Stanislaus,37.7432,-121.0091
+Coarsegold,Madera,37.2526,-119.7000
+Tuolumne City,Tuolumne,37.9615,-120.2428
+Shasta,Shasta,40.5910,-122.4797
+Leona Valley,Los Angeles,34.6147,-118.2990
+Descanso,San Diego,32.8696,-116.6279
+Dunsmuir,Siskiyou,41.2318,-122.2714
+Linden,San Joaquin,38.0186,-121.0994
+Big Pine,Inyo,37.1655,-118.2952
+Home Garden,Kings,36.3025,-119.6362
+Willow Creek,Humboldt,40.9385,-123.6412
+Chualar,Monterey,36.5711,-121.5103
+Colma,San Mateo,37.6767,-122.4526
+Airport,Stanislaus,37.6324,-120.9774
+Pine Valley,San Diego,32.8415,-116.5107
+Green Valley,Solano,38.2607,-122.1622
+Lebec,Kern,34.8450,-118.8992
+Monument Hills,Yolo,38.6641,-121.8756
+Dunnigan,Yolo,38.8926,-121.9741
+Irwindale,Los Angeles,34.1121,-117.9636
+Buttonwillow,Kern,35.4092,-119.4406
+Midpines,Mariposa,37.5531,-119.9485
+Castle Hill,Contra Costa,37.8729,-122.0573
+Eldridge,Sonoma,38.3339,-122.5065
+Janesville,Lassen,40.2809,-120.5335
+Montague,Siskiyou,41.7276,-122.5304
+Mountain Mesa,Kern,35.6411,-118.4047
+Allendale,Solano,38.4426,-121.9814
+Pioneer,Amador,38.4354,-120.5848
+Lewiston,Trinity,40.6969,-122.8225
+Walnut Grove,Sacramento,38.2478,-121.5280
+Grayson,Stanislaus,37.5650,-121.1794
+Redway,Humboldt,40.1209,-123.8220
+Sheridan,Placer,38.9690,-121.3559
+Lower Lake,Lake,38.9119,-122.6085
+Lake Riverside,Riverside,33.5173,-116.8107
+Ferndale,Humboldt,40.5799,-124.2619
+Shell Ridge,Contra Costa,37.9060,-122.0345
+Penn Valley,Nevada,39.1954,-121.1942
+Thermal,Riverside,33.6262,-116.1308
+Forest Meadows,Calaveras,38.1664,-120.4052
+Berry Creek,Butte,39.6314,-121.4052
+Avila Beach,San Luis Obispo,35.1969,-120.7191
+Byron,Contra Costa,37.8756,-121.6420
+Herlong,Lassen,40.1419,-120.1399
+Del Rey,Fresno,36.6562,-119.5993
+Mount Hermon,Santa Cruz,37.0511,-122.0533
+Blue Lake,Humboldt,40.8813,-123.9931
+Saticoy,Ventura,34.2819,-119.1452
+Callender,San Luis Obispo,35.0480,-120.5759
+Newcastle,Placer,38.8677,-121.1318
+Pasatiempo,Santa Cruz,37.0035,-122.0265
+Laytonville,Mendocino,39.6715,-123.4945
+Grizzly Flats,El Dorado,38.6357,-120.5355
+Maricopa,Kern,35.0516,-119.4054
+Clay,Sacramento,38.3140,-121.1596
+Malaga,Fresno,36.6816,-119.7318
+Mariposa,Mariposa,37.4873,-119.9682
+Knightsen,Contra Costa,37.9633,-121.6511
+Woodacre,Marin,38.0052,-122.6384
+Yosemite Valley,Mariposa,37.7407,-119.5779
+Sunnyside-Tahoe City,Placer,39.1504,-120.1613
+Tahoe Vista,Placer,39.2483,-120.0535
+Elkhorn,Monterey,36.8103,-121.7212
+Big River,San Bernardino,34.1393,-114.3604
+Alpaugh,Tulare,35.8876,-119.4873
+Hasley Canyon,Los Angeles,34.4817,-118.6665
+Palo Cedro,Shasta,40.5511,-122.2363
+Mountain Ranch,Calaveras,38.2509,-120.5119
+Gerber,Tehama,40.0614,-122.1482
+Covelo,Mendocino,39.8025,-123.2499
+Camanche North Shore,Amador,38.2442,-120.9538
+Matheny,Tulare,36.1707,-119.3516
+Kettleman City,Kings,36.0090,-119.9627
+Sea Ranch,Sonoma,38.7165,-123.4527
+Acalanes Ridge,Contra Costa,37.9046,-122.0786
+Johnstonville,Lassen,40.3789,-120.5846
+Santa Margarita,San Luis Obispo,35.3893,-120.6084
+Westhaven-Moonstone,Humboldt,41.0447,-124.1023
+Fairmead,Madera,37.0775,-120.1937
+Taft Mosswood,San Joaquin,37.9139,-121.2831
+Fort Dick,Del Norte,41.8663,-124.1526
+Inverness,Marin,38.0820,-122.8471
+Shandon,San Luis Obispo,35.6536,-120.3831
+Crowley Lake,Mono,37.5692,-118.7465
+Plymouth,Amador,38.4776,-120.8584
+Maxwell,Colusa,39.2771,-122.1946
+Bolinas,Marin,37.9177,-122.7095
+West Park,Fresno,36.7055,-119.8516
+Bradbury,Los Angeles,34.1536,-117.9684
+Hydesville,Humboldt,40.5579,-124.0822
+McClellan Park,Sacramento,38.6631,-121.4015
+Parklawn,Stanislaus,37.6069,-120.9793
+Knights Landing,Yolo,38.7979,-121.7175
+Lompico,Santa Cruz,37.1101,-122.0523
+Riverdale Park,Stanislaus,37.6028,-121.0425
+Thornton,San Joaquin,38.2310,-121.4250
+Beale AFB,Yuba,39.1095,-121.3543
+McCloud,Siskiyou,41.2540,-122.1360
+Julian,San Diego,33.0735,-116.5889
+Silverado Resort,Napa,38.3536,-122.2556
+Cedar Ridge,Tuolumne,38.0661,-120.2737
+Cobb,Lake,38.8356,-122.7230
+Pala,San Diego,33.3617,-117.0696
+Chalfant,Mono,37.5105,-118.3750
+Talmage,Mendocino,39.1314,-123.1648
+Tuttletown,Tuolumne,38.0003,-120.4503
+Sultana,Tulare,36.5464,-119.3359
+March ARB,Riverside,33.8888,-117.2776
+Squirrel Mountain Valley,Kern,35.6176,-118.4046
+Tulelake,Siskiyou,41.9534,-121.4752
+Monte Rio,Sonoma,38.4683,-123.0147
+Tahoma,Placer,39.0633,-120.1438
+Cleone,Mendocino,39.4927,-123.7812
+Westley,Stanislaus,37.5444,-121.2035
+Herald,Sacramento,38.2913,-121.2318
+Springville,Tulare,36.1168,-118.8345
+Fruitdale,Santa Clara,37.3116,-121.9357
+La Honda,San Mateo,37.3182,-122.2651
+Butte Creek Canyon,Butte,39.7490,-121.6968
+Minkler,Fresno,36.7277,-119.4587
+Mountain Gate,Shasta,40.7184,-122.3262
+Boonville,Mendocino,39.0115,-123.3740
+Wallace,Calaveras,38.1978,-120.9586
+Santa Susana,Ventura,34.2580,-118.6662
+Lake of the Woods,Kern,34.8226,-119.0027
+Linnell Camp,Tulare,36.3089,-119.2225
+Hopland,Mendocino,38.9691,-123.1173
+Garberville,Humboldt,40.1003,-123.7948
+Mesa Verde,Riverside,33.5957,-114.7317
+Camanche Village,Amador,38.2662,-120.9866
+Lake Don Pedro,Mariposa,37.6461,-120.3367
+Stratford,Kings,36.1884,-119.8224
+Norris Canyon,Contra Costa,37.7454,-121.9878
+Dorris,Siskiyou,41.9644,-121.9205
+Upper Lake,Lake,39.1653,-122.9052
+Bodega,Sonoma,38.3488,-122.9712
+Whitewater,Riverside,33.9356,-116.6873
+Diablo Grande,Stanislaus,37.4006,-121.2699
+Plainview,Tulare,36.1423,-119.1375
+Fuller Acres,Kern,35.3023,-118.9143
+Teviston,Tulare,35.9290,-119.2783
+Fieldbrook,Humboldt,40.9722,-124.0250
+North Edwards,Kern,35.0474,-117.8093
+Mi-Wuk Village,Tuolumne,38.0570,-120.1790
+Soda Bay,Lake,39.0024,-122.7794
+Deer Park,Napa,38.5360,-122.4679
+Walker,Mono,38.5341,-119.4582
+Mendocino,Mendocino,39.3110,-123.7908
+East Tulare Villa,Tulare,36.2035,-119.2821
+Blacklake,San Luis Obispo,35.0497,-120.5387
+Sunol,Alameda,37.5894,-121.8854
+Summerland,Santa Barbara,34.4255,-119.5893
+Isleton,Sacramento,38.1617,-121.6051
+Happy Camp,Siskiyou,41.8104,-123.3892
+Potrero,San Diego,32.6131,-116.6068
+Occidental,Sonoma,38.4004,-122.9349
+Penryn,Placer,38.8478,-121.1699
+Greenville,Plumas,40.1336,-120.9454
+Tranquillity,Fresno,36.6480,-120.2525
+Aguanga,Riverside,33.4522,-116.8555
+Dollar Point,Placer,39.1905,-120.1089
+East Orosi,Tulare,36.5481,-119.2599
+Zayante,Santa Cruz,37.0889,-122.0414
+Manila,Humboldt,40.8513,-124.1631
+Clyde,Contra Costa,38.0253,-122.0278
+Los Olivos,Santa Barbara,34.6647,-120.1180
+Littlerock,Los Angeles,34.5232,-117.9809
+Alhambra Valley,Contra Costa,37.9665,-122.1320
+Indio Hills,Riverside,33.8411,-116.2484
+Forest Ranch,Butte,39.8952,-121.6705
+Geyserville,Sonoma,38.7173,-122.9034
+Traver,Tulare,36.4526,-119.4824
+Greeley Hill,Mariposa,37.7569,-120.1291
+Bootjack,Mariposa,37.4672,-119.8887
+Middletown,Lake,38.7518,-122.6221
+Indianola,Humboldt,40.8133,-124.0808
+Butte Valley,Butte,39.6571,-121.6363
+Glen Ellen,Sonoma,38.3564,-122.5412
+Challenge-Brownsville,Yuba,39.4646,-121.2632
+Etna,Siskiyou,41.4582,-122.8946
+Kenwood,Sonoma,38.4153,-122.5387
+Delft Colony,Tulare,36.5120,-119.4465
+Hickman,Stanislaus,37.6228,-120.7532
+Loyalton,Sierra,39.6768,-120.2448
+Inyokern,Kern,35.6546,-117.8212
+Fort Jones,Siskiyou,41.6085,-122.8411
+Mokelumne Hill,Calaveras,38.3057,-120.7061
+North Gate,Contra Costa,37.9062,-121.9981
+Gasquet,Del Norte,41.8429,-123.9733
+Tres Pinos,San Benito,36.7904,-121.3105
+Calpella,Mendocino,39.2322,-123.1970
+Junction City,Trinity,40.7274,-123.0615
+Millville,Shasta,40.5576,-122.1696
+Lytle Creek,San Bernardino,34.2499,-117.5044
+Lakehead,Shasta,40.9007,-122.3924
+Waterloo,San Joaquin,38.0365,-121.1846
+Bodega Bay,Sonoma,38.3250,-123.0308
+Kernville,Kern,35.7531,-118.4321
+New Cuyama,Santa Barbara,34.9421,-119.6808
+San Simeon,San Luis Obispo,35.6182,-121.1375
+Valley Acres,Kern,35.2087,-119.4106
+Fulton,Sonoma,38.4937,-122.7734
+Dustin Acres,Kern,35.2159,-119.3750
+Ducor,Tulare,35.8943,-119.0456
+Klamath,Del Norte,41.5322,-124.0063
+Loleta,Humboldt,40.6409,-124.2225
+Niland,Imperial,33.2387,-115.5146
+Cohasset,Butte,39.9022,-121.7453
+Patton Village,Lassen,40.1401,-120.1778
+Douglas City,Trinity,40.6636,-122.9261
+Peters,San Joaquin,37.9763,-121.0440
+Doyle,Lassen,40.0275,-120.1172
+Seville,Tulare,36.4856,-119.2247
+Alto,Marin,37.9056,-122.5186
+Caspar,Mendocino,39.3631,-123.8044
+Cedarville,Modoc,41.5280,-120.1748
+Miranda,Humboldt,40.2289,-123.8173
+Catheys Valley,Mariposa,37.4371,-120.0936
+Friant,Fresno,36.9848,-119.7130
+Independence,Inyo,36.8274,-118.2132
+Stinson Beach,Marin,37.9051,-122.6456
+Buena Vista,Amador,38.2974,-120.9179
+Cold Springs,El Dorado,38.7468,-120.8761
+Madison,Yolo,38.6750,-121.9702
+Shelter Cove,Humboldt,40.0389,-124.0558
+Allensworth,Tulare,35.8498,-119.3893
+Desert Shores,Imperial,33.4041,-116.0394
+Alta,Placer,39.2138,-120.8033
+River Pines,Amador,38.5454,-120.7475
+Newell,Modoc,41.8897,-121.3675
+Avery,Calaveras,38.1939,-120.3790
+Concow,Butte,39.7733,-121.5196
+Paradise Park,Santa Cruz,37.0063,-122.0425
+Scotia,Humboldt,40.4774,-124.1032
+San Lucas,Monterey,36.1283,-121.0217
+San Ardo,Monterey,36.0237,-120.9074
+Bridgeport,Mono,38.2562,-119.2123
+Baker,San Bernardino,35.2769,-116.0718
+Fort Washington,Fresno,36.8793,-119.7613
+Ballico,Merced,37.4519,-120.7037
+Graeagle,Plumas,39.7572,-120.6486
+Ballard,Santa Barbara,34.6340,-120.1156
+Los Berros,San Luis Obispo,35.0809,-120.5450
+Lake Hughes,Los Angeles,34.6833,-118.4588
+Wilkerson,Inyo,37.2794,-118.3877
+Lockwood,Monterey,35.9412,-121.0802
+Yettem,Tulare,36.4866,-119.2549
+Round Valley,Inyo,37.4067,-118.5819
+Rough and Ready,Nevada,39.2340,-121.1381
+Bend,Tehama,40.2561,-122.2095
+Cowan,Stanislaus,37.5601,-120.9888
+Smith River,Del Norte,41.9249,-124.1494
+Potter Valley,Mendocino,39.3190,-123.1123
+Hamilton Branch,Plumas,40.2772,-121.0961
+Smith Corner,Kern,35.4788,-119.2771
+Onyx,Kern,35.6839,-118.2102
+Delleker,Plumas,39.8101,-120.4969
+Shaver Lake,Fresno,37.0971,-119.3245
+Coleville,Mono,38.5834,-119.5160
+Mad River,Trinity,40.4325,-123.4917
+Clarksburg,Yolo,38.4193,-121.5416
+West Point,Calaveras,38.4043,-120.5374
+Carnelian Bay,Placer,39.2346,-120.0767
+Point Arena,Mendocino,38.9123,-123.6955
+Bass Lake,Madera,37.3280,-119.5668
+Diablo,Contra Costa,37.8408,-121.9565
+Terminous,San Joaquin,38.1154,-121.4896
+McArthur,Shasta,41.0415,-121.4068
+Ripley,Riverside,33.5238,-114.6531
+French Gulch,Shasta,40.7166,-122.6312
+California Pines,Modoc,41.4117,-120.6605
+Oak Glen,San Bernardino,34.0448,-116.9497
+Bangor,Butte,39.3761,-121.4117
+West Goshen,Tulare,36.3490,-119.4516
+Coloma,El Dorado,38.8026,-120.8946
+Mexican Colony,Kern,35.4689,-119.2687
+Chilcoot-Vinton,Plumas,39.8067,-120.1388
+Robbins,Sutter,38.8672,-121.7055
+Meadow Valley,Plumas,39.9322,-121.0831
+Spreckels,Monterey,36.6247,-121.6465
+Beckwourth,Plumas,39.8485,-120.4111
+Raisin City,Fresno,36.6033,-119.9092
+Forbestown,Butte,39.5300,-121.2689
+Lake Almanor Country Club,Plumas,40.2578,-121.1470
+Boulevard,San Diego,32.6640,-116.2896
+Garden Farms,San Luis Obispo,35.4158,-120.6140
+Martell,Amador,38.3623,-120.8039
+Sand City,Monterey,36.6189,-121.8478
+San Geronimo,Marin,38.0068,-122.6634
+Grenada,Siskiyou,41.6406,-122.5260
+June Lake,Mono,37.7677,-119.1022
+Orick,Humboldt,41.2909,-124.0692
+Tonyville,Tulare,36.2474,-119.0903
+Derby Acres,Kern,35.2439,-119.6039
+Princeton,Colusa,39.4029,-122.0212
+Centerville,Fresno,36.7361,-119.4961
+Cantua Creek,Fresno,36.5001,-120.3164
+Stirling City,Butte,39.9065,-121.5361
+Tehama,Tehama,40.0218,-122.1269
+Meridian,Sutter,39.1404,-121.9079
+Davenport,Santa Cruz,37.0176,-122.1882
+Lake Almanor Peninsula,Plumas,40.2812,-121.1345
+Plumas Eureka,Plumas,39.7982,-120.6645
+Mineral,Tehama,40.3755,-121.5694
+Edmundson Acres,Kern,35.2273,-118.8233
+Trinidad,Humboldt,41.0589,-124.1434
+Anchor Bay,Mendocino,38.8126,-123.5704
+Manton,Tehama,40.4202,-121.8540
+Rio Oso,Sutter,38.9518,-121.5310
+Nipinnawasee,Madera,37.4031,-119.7293
+Mesa,Inyo,37.4189,-118.5424
+Oak Shores,San Luis Obispo,35.7624,-120.9817
+Dobbins,Yuba,39.3657,-121.2127
+Grangeville,Kings,36.3439,-119.7075
+Cazadero,Sonoma,38.5265,-123.0978
+Cressey,Merced,37.4210,-120.6556
+Camptonville,Yuba,39.4521,-121.0488
+El Nido,Merced,37.1324,-120.4985
+Muir Beach,Marin,37.8654,-122.5858
+Clipper Mills,Butte,39.5324,-121.1666
+Benton,Mono,37.8189,-118.4844
+Twain,Plumas,40.0355,-121.0404
+Fiddletown,Amador,38.5091,-120.7605
+Cromberg,Plumas,39.8684,-120.6904
+Hood,Sacramento,38.3693,-121.5155
+Nord,Butte,39.7740,-121.9549
+Artois,Glenn,39.6332,-122.1898
+Jacumba,San Diego,32.6278,-116.1826
+Grimes,Colusa,39.0742,-121.8988
+Crows Landing,Stanislaus,37.3947,-121.0843
+Weott,Humboldt,40.3226,-123.9209
+Richfield,Tehama,39.9738,-122.1732
+Burnt Ranch,Trinity,40.8110,-123.5082
+Bombay Beach,Imperial,33.3548,-115.7307
+Sierra Brooks,Sierra,39.6426,-120.2153
+Bloomfield,Sonoma,38.3183,-122.8502
+Keswick,Shasta,40.6135,-122.4606
+Point Reyes Station,Marin,38.0847,-122.8093
+Lindcove,Tulare,36.3595,-119.0721
+Pajaro Dunes,Santa Cruz,36.8722,-121.8101
+Monson,Tulare,36.4927,-119.3358
+Canby,Modoc,41.4477,-120.8843
+Yankee Hill,Butte,39.7007,-121.5147
+Dorrington,Calaveras,38.2949,-120.2706
+Fall River Mills,Shasta,41.0069,-121.4401
+East Nicolaus,Sutter,38.9100,-121.5443
+Bowles,Fresno,36.6089,-119.7526
+Monterey Park Tract,Stanislaus,37.5268,-121.0115
+Smartsville,Yuba,39.2053,-121.2928
+Salton Sea Beach,Imperial,33.3759,-116.0115
+Greenhorn,Plumas,39.9030,-120.7590
+Albion,Mendocino,39.2256,-123.7564
+Trowbridge,Sutter,38.9264,-121.5148
+Dillon Beach,Marin,38.2436,-122.9560
+Trinity Village,Trinity,40.8789,-123.5133
+Fields Landing,Humboldt,40.7249,-124.2176
+Swall Meadows,Mono,37.5061,-118.6426
+Three Rocks,Fresno,36.5051,-120.3936
+Cassel,Shasta,40.9213,-121.5514
+Groveland,Tuolumne,37.8325,-120.2394
+Elmira,Solano,38.3523,-121.9077
+Hiouchi,Del Norte,41.7936,-124.0662
+Guinda,Yolo,38.8275,-122.1985
+Vallecito,Calaveras,38.0740,-120.4564
+Lemon Cove,Tulare,36.3790,-119.0312
+Vina,Tehama,39.9343,-122.0518
+Greenview,Siskiyou,41.5471,-122.9185
+Dos Palos Y,Merced,37.0466,-120.6394
+Olancha,Inyo,36.2704,-118.0015
+Mesa Vista,Alpine,38.8103,-119.8033
+Keene,Kern,35.2330,-118.6103
+Lanare,Fresno,36.4377,-119.9322
+Lake Almanor West,Plumas,40.2336,-121.2021
+Whitley Gardens,San Luis Obispo,35.6571,-120.5068
+El Portal,Mariposa,37.6736,-119.7990
+Pescadero,San Mateo,37.2507,-122.3725
+Manchester,Mendocino,38.9744,-123.6909
+Desert Center,Riverside,33.7378,-115.3666
+Victor,San Joaquin,38.1385,-121.1987
+Cherokee Strip,Kern,35.4698,-119.2617
+Samoa,Humboldt,40.8146,-124.1893
+Little River,Mendocino,39.2703,-123.7817
+La Vina,Madera,36.8799,-120.1147
+Hornbrook,Siskiyou,41.9079,-122.5596
+Clear Creek,Lassen,40.3023,-121.0531
+Richvale,Butte,39.4937,-121.7507
+Daphnedale Park,Modoc,41.5089,-120.5507
+Rackerby,Butte,39.4261,-121.3542
+Milford,Lassen,40.1634,-120.3686
+Litchfield,Lassen,40.3877,-120.3809
+Acampo,San Joaquin,38.1735,-121.2798
+Industry,Los Angeles,34.0175,-117.9267
+Big Creek,Fresno,37.2036,-119.2486
+Taylorsville,Plumas,40.0586,-120.8387
+Coffee Creek,Trinity,41.0802,-122.7136
+Bear Valley,Mariposa,37.5671,-120.1229
+Yolo,Yolo,38.7405,-121.8093
+Fort Bidwell,Modoc,41.8629,-120.1589
+Winterhaven,Imperial,32.7372,-114.6378
+Tomales,Marin,38.2470,-122.9054
+Garey,Santa Barbara,34.8869,-120.3141
+Iron Horse,Plumas,39.7805,-120.4823
+Rail Road Flat,Calaveras,38.3168,-120.4910
+Amador City,Amador,38.4190,-120.8232
+Wawona,Mariposa,37.5482,-119.6395
+Verdi,Sierra,39.5237,-120.0164
+Valley Home,Stanislaus,37.8272,-120.9144
+Elk Creek,Glenn,39.6002,-122.5376
+Calpine,Sierra,39.6633,-120.4436
+Proberta,Tehama,40.0762,-122.1776
+Port Costa,Contra Costa,38.0446,-122.1850
+Courtland,Sacramento,38.3329,-121.5570
+Dutch Flat,Placer,39.2080,-120.8345
+North San Juan,Nevada,39.3719,-121.1060
+Fairhaven,Humboldt,40.7885,-124.2013
+Stevinson,Merced,37.3247,-120.8497
+Philo,Mendocino,39.0657,-123.4452
+Chinese Camp,Tuolumne,37.8703,-120.4443
+Edna,San Luis Obispo,35.2108,-120.6060
+Loma Mar,San Mateo,37.2658,-122.3007
+Farmington,San Joaquin,37.9299,-121.0043
+Adin,Modoc,41.1964,-120.9494
+College City,Colusa,39.0063,-122.0068
+Ruth,Trinity,40.2943,-123.3483
+Sierra Village,Tuolumne,38.0768,-120.1624
+Sisquoc,Santa Barbara,34.8622,-120.2943
+Lodoga,Colusa,39.3041,-122.5058
+Tecopa,Inyo,35.8350,-116.2074
+Tooleville,Tulare,36.2878,-119.1154
+Bluewater,San Bernardino,34.1760,-114.2640
+Pike,Sierra,39.4278,-120.9996
+Downieville,Sierra,39.5701,-120.8213
+Mettler,Kern,35.0635,-118.9729
+Bieber,Lassen,41.1251,-121.1336
+Alderpoint,Humboldt,40.1614,-123.6157
+Flournoy,Tehama,39.9284,-122.4461
+Trinity Center,Trinity,40.9841,-122.7083
+Waukena,Tulare,36.1361,-119.5110
+Nicolaus,Sutter,38.8981,-121.5729
+Bear Creek,Merced,37.2966,-120.4177
+Pine Flat,Tulare,35.8737,-118.6427
+Montgomery Creek,Shasta,40.8415,-121.9215
+Casmalia,Santa Barbara,34.8376,-120.5311
+Tupman,Kern,35.2987,-119.3575
+Timber Cove,Sonoma,38.5410,-123.2590
+C-Road,Plumas,39.7628,-120.5770
+Hardwick,Kings,36.4026,-119.7208
+Cherokee,Butte,39.6514,-121.5344
+Big Bend,Shasta,41.0109,-121.9240
+Myers Flat,Humboldt,40.2666,-123.8737
+Markleeville,Alpine,38.6841,-119.8225
+Hat Creek,Shasta,40.8101,-121.4809
+Volta,Merced,37.0875,-120.9235
+East Shore,Plumas,40.2451,-121.0768
+Sierra City,Sierra,39.5740,-120.6297
+Topaz,Mono,38.6587,-119.5274
+Randsburg,Kern,35.3680,-117.6607
+Moskowite Corner,Riverside,38.4464,-122.1945
+Snelling,Merced,37.5216,-120.4387
+Johannesburg,Kern,35.3718,-117.6420
+Benbow,Humboldt,40.0603,-123.7654
+Mount Laguna,San Diego,32.8711,-116.4247
+McKittrick,Kern,35.2981,-119.6249
+Honcut,Butte,39.3326,-121.5388
+Hyampom,Trinity,40.6262,-123.4689
+Bradley,Monterey,35.8628,-120.8042
+Monmouth,Fresno,36.5656,-119.7405
+Vernon,Los Angeles,34.0019,-118.2106
+Spaulding,Lassen,40.6557,-120.7863
+Furnace Creek,Inyo,36.4277,-116.8747
+Paskenta,Tehama,39.8833,-122.5458
+Long Barn,Tuolumne,38.0957,-120.1285
+Alpine Village,Alpine,38.7856,-119.8009
+Rodriguez Camp,Tulare,35.8090,-119.1388
+Darwin,Inyo,36.2689,-117.5890
+Big Lagoon,Humboldt,41.1592,-124.1303
+Comptche,Mendocino,39.2651,-123.5896
+Lee Vining,Mono,37.9547,-119.1221
+Mono City,Mono,38.0412,-119.1467
+Tuttle,Merced,37.2965,-120.3789
+Crescent Mills,Plumas,40.1008,-120.9217
+Fish Camp,Mariposa,37.4797,-119.6373
+Carrick,Siskiyou,41.4467,-122.3635
+Stonyford,Colusa,39.3703,-122.5445
+Oakville,Napa,38.4384,-122.4067
+Round Mountain,Shasta,40.8005,-121.9376
+Ocotillo,Imperial,32.7431,-116.0020
+New Pine Creek,Modoc,41.9872,-120.3009
+Rutherford,Napa,38.4568,-122.4231
+Sattley,Sierra,39.6265,-120.4357
+Sierraville,Sierra,39.5750,-120.3637
+Leggett,Mendocino,39.8635,-123.7253
+Westside,Fresno,36.4042,-120.1341
+Kirkwood,Alpine,38.6930,-120.0640
+Sereno del Mar,Sonoma,38.3836,-123.0732
+Paynes Creek,Tehama,40.3409,-121.9174
+Alleghany,Sierra,39.4666,-120.8410
+Keddie,Plumas,40.0059,-120.9525
+Mount Hebron,Siskiyou,41.7855,-122.0083
+Nicasio,Marin,38.0605,-122.7008
+Kingvale,Nevada,39.3203,-120.4387
+Freeport,Sacramento,38.4636,-121.5022
+Phillipsville,Humboldt,40.2117,-123.7844
+Homewood Canyon,Inyo,35.8900,-117.3863
+Sunny Slopes,Mono,37.5694,-118.6759
+Hornitos,Mariposa,37.5034,-120.2420
+Palo Verde,Imperial,33.4279,-114.7273
+Coulterville,Mariposa,37.7105,-120.1992
+El Rancho,Tulare,36.2207,-119.0690
+Clio,Plumas,39.7487,-120.5725
+Lake City,Modoc,41.6460,-120.2255
+Washington,Nevada,39.3591,-120.7906
+Gazelle,Siskiyou,41.5137,-122.5215
+Macdoel,Siskiyou,41.8258,-122.0058
+Mohawk Vista,Plumas,39.8048,-120.5883
+Moss Landing,Monterey,36.8019,-121.7872
+Robinson Mill,Butte,39.4857,-121.3202
+Indian Falls,Plumas,40.0587,-120.9803
+Lake Davis,Plumas,39.8564,-120.4630
+Eagleville,Modoc,41.3191,-120.1147
+Fellows,Kern,35.1779,-119.5472
+Whitehawk,Plumas,39.7206,-120.5536
+Panorama Heights,Tulare,35.8068,-118.6270
+McClenney Tract,Tulare,35.8220,-118.6478
+California Hot Springs,Tulare,35.8863,-118.6561
+Soda Springs,Nevada,39.3248,-120.3784
+Lookout,Modoc,41.2100,-121.1545
+Butte Meadows,Butte,40.0871,-121.5370
+Volcano,Amador,38.4456,-120.6306
+Trona,Inyo,35.8150,-117.3449
+Pierpoint,Tulare,36.1405,-118.6296
+Sequoia Crest,Tulare,36.1858,-118.6256
+Edgewood,Siskiyou,41.4620,-122.4260
+Nubieber,Lassen,41.0967,-121.1816
+Valley Ford,Sonoma,38.3246,-122.9148
+Creston,San Luis Obispo,35.5173,-120.5211
+Old Station,Shasta,40.6722,-121.4228
+Jenner,Sonoma,38.4511,-123.1203
+Prattville,Plumas,40.2060,-121.1575
+Goodyears Bar,Sierra,39.5458,-120.8881
+Tennant,Siskiyou,41.5815,-121.9151
+Little Valley,Lassen,40.8930,-121.1781
+Mabie,Plumas,39.7771,-120.5447
+Redcrest,Humboldt,40.3987,-123.9474
+Aspen Springs,Mono,37.5500,-118.7087
+Drytown,Amador,38.4382,-120.8565
+Spring Garden,Plumas,39.9012,-120.7935
+Salmon Creek,Sonoma,38.3463,-123.0595
+Ponderosa,Tulare,36.1050,-118.5293
+Blairsden,Plumas,39.7752,-120.6109
+Cuyama,Santa Barbara,34.9312,-119.6148
+Shoshone,Inyo,35.9510,-116.3055
+Graniteville,Nevada,39.4443,-120.7360
+Buck Meadows,Mariposa,37.8127,-120.0653
+Keeler,Inyo,36.4846,-117.8720
+Sugarloaf Village,Tulare,35.8269,-118.6354
+Pearsonville,Inyo,35.8188,-117.8755
+Cartago,Inyo,36.3123,-118.0261
+Poso Park,Tulare,35.8114,-118.6364
