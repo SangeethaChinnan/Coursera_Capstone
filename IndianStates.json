@@ -38,3 +38,4 @@
     "UK":"Uttarakhand",
     "WB":"West Bengal"
 }
+info = json.loads(js.decode("utf-8"))
