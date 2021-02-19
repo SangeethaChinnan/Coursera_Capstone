@@ -40,13 +40,13 @@ In this project Foursquare API is utilized to get the venue details for each of 
 One of our target was to visualize the Average Housing Sale Prices for each county with choropleth style map. Bar Plot is also utilized to verify the same. 
 
 
-![alt text](https://github.com/SangeethaChinnan/Data-Science/blob/master/Screenshot%202021-02-13%20at%203.49.17%20PM.png)
+![alt text](https://github.com/SangeethaChinnan/Data_Science_Project/blob/main/Screenshot%202021-02-13%20at%203.49.17%20PM.png)
 
-![alt text](https://github.com/SangeethaChinnan/Data-Science/blob/master/Screenshot%202021-02-14%20at%207.18.31%20PM.png)
+![alt text](https://github.com/SangeethaChinnan/Data_Science_Project/blob/main/Screenshot%202021-02-14%20at%207.18.31%20PM.png)
 
 The data from Foursquare API is then used to super impose the venue details onto the folium map.
 
-![alt text](https://github.com/SangeethaChinnan/Data-Science/blob/master/Screenshot%202021-02-13%20at%203.55.30%20PM.png)
+![alt text](https://github.com/SangeethaChinnan/Data_Science_Project/blob/main/Screenshot%202021-02-13%20at%203.55.30%20PM.png)
 
 
 ### 5. Discussions
