@@ -42,6 +42,7 @@ One of our target was to visualize the Average Housing Sale Prices for each coun
 
 ![alt text](https://github.com/SangeethaChinnan/Data_Science_Project/blob/main/Screenshot%202021-02-13%20at%203.49.17%20PM.png)
 
+
 ![alt text](https://github.com/SangeethaChinnan/Data_Science_Project/blob/main/Screenshot%202021-02-14%20at%207.18.31%20PM.png)
 
 The data from Foursquare API is then used to super impose the venue details onto the folium map.
